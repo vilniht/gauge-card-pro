@@ -1,23 +1,38 @@
 # Gauge Card Pro
 
-### Build beautiful Gauge cards using 🌈 gradients and 🛠️ templates!
 
 > [!NOTE]
 > I'm looking for a (experienced) Home Assistant (front-end) developer to help me improve the overall performance of this card. You can help me out with just some tips and tricks or create a pull-request with improvements. Contact me via this repo of message me at the [Home Assistant Community forums](https://community.home-assistant.io/u/miura). Any help is highly appreciated!
 
-## Description
+# Gauge Card Pro / ru
 
-Inspired by the idea to be able to recreate the Home Assistant native Energy Gauge Cards I created `Gauge Card Pro`. Built on top of the Home Assistant [Gauge card](https://www.home-assistant.io/dashboards/gauge/), but with many more features and beautiful look-and-feel!
+Создавайте эффектные карточки-шкалы с 🌈 градиентами и 🛠️ шаблонами!
 
-- 🌈 Native gradient support for `segments`
-- ✌️ Two gauges in one
-- 🛠️ Use templates for the majority of the fields
-- 🎨 Every element in the card can have its colour defined. This can be a single colour or two colours for light- or darkmode. Of course, allows templating!
-- 👬 Set `value` and `value_text` independently
-- 👀 Two labels underneath the gauge
-- ✨ Additional icon indicator next to the gauge
-- 🎨 Automatic color interpolation for `severity` gauges
-- 😶‍🌫️ Native ability to hide the background
+Описание
+
+Вдохновлённый идеей возможности воспроизвести родные Energy Gauge-карточки Home Assistant, я создал Gauge Card Pro. Построена на основе Gauge card Home Assistant, но с большим количеством функций и красивым внешним видом!
+
+######################################################################################################################################
+#### В этой версии добавлен перевод интерфейса на русский язык, чтобы карточка была полностью понятна русскоязычным пользователям.####
+######################################################################################################################################
+
+🌈 Поддержка нативных градиентов для сегментов
+
+✌️ Две шкалы в одной карточке
+
+🛠️ Использование шаблонов для большинства полей
+
+🎨 Каждый элемент карточки может иметь собственный цвет. Это может быть один цвет или два цвета для светлого и тёмного режима. Разумеется, поддерживается использование шаблонов!
+
+👬 Возможность устанавливать значение и текст значения независимо
+
+👀 Две подписи под шкалой
+
+✨ Дополнительный индикатор-иконка рядом со шкалой
+
+🎨 Автоматическое плавное изменение цвета в зависимости от уровня
+
+😶‍🌫️ Возможность скрывать фон нативно
 
 #### Basic customization examples
 
